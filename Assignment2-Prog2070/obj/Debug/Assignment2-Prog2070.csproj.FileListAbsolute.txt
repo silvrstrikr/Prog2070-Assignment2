@@ -1,0 +1,7 @@
+C:\Users\Alan\OneDrive - Conestoga College\Software quality\Assignment2-Prog2070\Assignment2-Prog2070\bin\Debug\Assignment2-Prog2070.exe.config
+C:\Users\Alan\OneDrive - Conestoga College\Software quality\Assignment2-Prog2070\Assignment2-Prog2070\bin\Debug\Assignment2-Prog2070.exe
+C:\Users\Alan\OneDrive - Conestoga College\Software quality\Assignment2-Prog2070\Assignment2-Prog2070\bin\Debug\Assignment2-Prog2070.pdb
+C:\Users\Alan\OneDrive - Conestoga College\Software quality\Assignment2-Prog2070\Assignment2-Prog2070\obj\Debug\Assignment2-Prog2070.csprojAssemblyReference.cache
+C:\Users\Alan\OneDrive - Conestoga College\Software quality\Assignment2-Prog2070\Assignment2-Prog2070\obj\Debug\Assignment2-Prog2070.csproj.CoreCompileInputs.cache
+C:\Users\Alan\OneDrive - Conestoga College\Software quality\Assignment2-Prog2070\Assignment2-Prog2070\obj\Debug\Assignment2-Prog2070.exe
+C:\Users\Alan\OneDrive - Conestoga College\Software quality\Assignment2-Prog2070\Assignment2-Prog2070\obj\Debug\Assignment2-Prog2070.pdb
