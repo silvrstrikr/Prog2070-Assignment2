@@ -17,6 +17,9 @@ using NUnit.Framework;
 
 namespace Assignment2Tests
 {
+    /// <summary>
+    /// tests each of the six methods of the rectangle class three times
+    /// </summary>
     [TestFixture]
     public class RectangleTest
     {

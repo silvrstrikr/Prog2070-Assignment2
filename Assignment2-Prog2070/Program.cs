@@ -17,6 +17,10 @@ namespace Assignment2_Prog2070
 {
     class Program
     {
+        /// <summary>
+        /// this is the main entry point and the menu
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Your Rectangle Program\n\n");
@@ -76,6 +80,11 @@ namespace Assignment2_Prog2070
 
         }
 
+        /// <summary>
+        /// this returns the dimension value from the user
+        /// </summary>
+        /// <param name="dimensionName">name of the dimension wanted</param>
+        /// <returns></returns>
         static int GetDimension(string dimensionName)
         {
             bool invalid = true;
