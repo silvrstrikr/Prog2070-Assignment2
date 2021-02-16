@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+ * Alan Beals
+ * Assignment 2
+ * Prog 2070 - Quality Assurance
+ * 8658171
+ * 2021-02-16
+ *
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -45,7 +54,7 @@ namespace Assignment2_Prog2070
 
         public int GetPerimeter()
         {
-            return length * 2 + width * 2;
+            return (length + width) * 2;
         }
 
         public int GetArea()

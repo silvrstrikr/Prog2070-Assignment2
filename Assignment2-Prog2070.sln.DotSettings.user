@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a82d9ac5_002Dcddf_002D4bc9_002Db122_002D2f9eca3b6c95/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RectangleTestGetArea_14_21_294" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E0809573-52D2-4E00-B9B2-24A5CA79EE73::.NETFramework,Version=v4.7.2::Assignment2Tests.RectangleTest.RectangleTestGetArea_14_21_294&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E0809573-52D2-4E00-B9B2-24A5CA79EE73::.NETFramework,Version=v4.7.2::Assignment2Tests.RectangleTest.RectangleTestGetArea_43_2_86&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E0809573-52D2-4E00-B9B2-24A5CA79EE73::.NETFramework,Version=v4.7.2::Assignment2Tests.RectangleTest.RectangleTestGetArea_2&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
