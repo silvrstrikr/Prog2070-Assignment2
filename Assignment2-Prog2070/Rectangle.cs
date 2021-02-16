@@ -6,8 +6,19 @@ using System.Threading.Tasks;
 
 namespace Assignment2_Prog2070
 {
-    class Rectangle
+    public class Rectangle
     {
+        public Rectangle()
+        {
+            width = 1;
+            length = 1;
+        }
+        public Rectangle(int width, int length)
+        {
+            this.width = width;
+            this.length = length;
+        }
+
         private int width;
 
         private int length;
